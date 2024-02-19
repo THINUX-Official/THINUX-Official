@@ -1,6 +1,5 @@
-<img style="display: block; margin: 20px  auto; height: 100px;" src="logo.png" alt="logo">
-<h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
-
+<img align="center" style="display: block; margin: 20px  auto; height: 100px;" src="logo.png" alt="logo">
+<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <div align="center">
     <div>
@@ -18,7 +17,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/thinux/?trk=public_profile-settings_edit-profile-content&originalSubdomain=lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thinux" height="30" width="40" /></a>
 <a href="https://instagram.com/thinux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinux" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@thinux-official?si=ul6hrmb29is69mdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thinux-official?si=ul6hrmb29is69mdr" height="30" width="40" /></a>
+
+[//]: # (<a href="https://www.youtube.com/c/https://youtube.com/@thinux-official?si=ul6hrmb29is69mdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thinux-official?si=ul6hrmb29is69mdr" height="30" width="40" /></a>)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
