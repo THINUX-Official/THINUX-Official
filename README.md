@@ -1,4 +1,6 @@
-<img align="center" style="display: block; margin: 20px auto; height: 100px;" src="logo.png" alt="logo">
+<div align="center">
+    <img style="display: block; margin: 20px auto; height: 100px;" src="logo.png" alt="logo">
+</div>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <div align="center">
