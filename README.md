@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm THINUX</h1>
+<h1 align="center">Hi 👋, I'm <img style="height: 100px; vertical-align: middle" src="logo.png" alt="logo"></h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
-<div>
-
-[//]: # (        <img src="../public/favicon.ico"/>)
-</div>
 
 <div align="center">
     <div>
