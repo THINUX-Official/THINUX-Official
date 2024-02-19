@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img style="height: 100px; vertical-align: middle" src="logo.png" alt="logo"></h1>
+<img style="display: block; margin: 20px  auto; height: 100px;" src="logo.png" alt="logo">
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
 
